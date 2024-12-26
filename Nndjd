@@ -1,0 +1,27 @@
+@freefiremax.app
+include <iostream>
+class body.player()
+{
+    esp :: body things;
+    esp head.body.player
+    class aim
+    aim = target.esp
+    auto findfirst esp target;
+    load maps;
+    auto aim;
+    return aim;
+    endl;
+}
+@freefire.app
+class body.player()
+{
+    esp :: body things;
+    esp head.body.player
+    class aim
+    aim = target.esp
+    auto findfirst esp target;
+    load maps;
+    auto aim;
+    return aim;
+    endl;
+}
